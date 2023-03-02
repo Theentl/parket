@@ -1,0 +1,140 @@
+Uri: https://apexmarketing.ru/img/home/close.svg
+File Name: C:\Downloaded Web Sites\edtechbox.ru\img\home\close.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\edtechbox.ru\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js
+File Name: C:\Downloaded Web Sites\edtechbox.ru\ajax\libs\jquery\3.6.0\jquery.js
+Content Type: application/javascript
+
+Uri: https://edtechbox.ru/
+File Name: C:\Downloaded Web Sites\edtechbox.ru\index.htm
+Content Type: text/html
+
+Uri: https://edtechbox.ru/assets/css/style.css
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\css\style.css
+Content Type: text/css
+
+Uri: https://edtechbox.ru/assets/img/bg-mob.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\bg-mob.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/bg.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\bg.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/book-keys.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\book-keys.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/ellips.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\ellips.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/galka.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\galka.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/get-consult-mob.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\get-consult-mob.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/get-consult.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\get-consult.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/get-plan-mob.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\get-plan-mob.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/get-plan.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\get-plan.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/i.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\i.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/info.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\info.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/inp-m.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\inp-m.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/inp-t.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\inp-t.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/ogon.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\ogon.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/photo-mob.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\photo-mob.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/photo.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\photo.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/play.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\play.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/tel.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\tel.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/telegram.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\telegram.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/test.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\test.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/whatsapp.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\whatsapp.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/img/win.png
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\img\win.png
+Content Type: image/png
+
+Uri: https://edtechbox.ru/assets/js/main.min.js
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://edtechbox.ru/assets/video/video.mp4
+File Name: C:\Downloaded Web Sites\edtechbox.ru\assets\video\video.mp4
+Content Type: video/mp4
+
+Uri: https://edtechbox.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\edtechbox.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://edtechbox.ru/privacy.php
+File Name: C:\Downloaded Web Sites\edtechbox.ru\privacy.php.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/91039877
+File Name: C:\Downloaded Web Sites\edtechbox.ru\watch\91039877
+Content Type: image/gif
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\edtechbox.ru\bootstrap\4.5.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\edtechbox.ru\bootstrap\4.5.0\js\bootstrap.min.js
+Content Type: application/javascript
+
